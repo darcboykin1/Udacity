@@ -6,4 +6,8 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+I learned three (3) new html tags that I've never even heard of ! The <hr> tag should come in pretty handy for some things that I have in mind.
+
+The difficult part of this course as I move further into the deep end will come when I have to do heavy googling for complex concepts. I can see it now.
+
+Learning the difference between inline and block elements was a good and easy refresher. 
